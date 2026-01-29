@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Arial', sans-serif;
-  background: url('https://767416.selcdn.ru/production_kodland_main_public/task_description_materials/17a5f2d3-7e1c-41d4-acbe-086a61914593.png') no-repeat center center fixed;
+  background: url('fon.png') no-repeat center center fixed;
   background-size: cover;
   color: #333;
   display: flex;
